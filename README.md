@@ -1,2 +1,3 @@
 # api-user-otp
-![loginuser](https://user-images.githubusercontent.com/128396436/226410945-4b09d077-c060-4485-bee2-355fc7aa37ba.png)
+![otpsend](https://user-images.githubusercontent.com/128396436/226411248-a2e2fb0f-74ac-4042-952f-bffb7c4a343c.png)
+![otpveiw](https://user-images.githubusercontent.com/128396436/226411275-788d1707-c6cf-4ce3-9285-700644fa8a13.png)
